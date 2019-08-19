@@ -4,7 +4,7 @@
 using namespace std;
 
 string test(string inp){
-	if(inp.length()==1) return "PALINDROME";
+	if(inp.length()<=1) return "PALINDROME";
 	else if(inp.length()==2){
 		char c1 = inp[0];
 		char c2 = inp[1];
@@ -17,14 +17,16 @@ string test(string inp){
 		char end = inp[len-1];
 		if(beg!=end) return "NOT PALINDROME";
 		else{
-			test(inp.substr(1,len-2));
+			return test(inp.substr(1,len-2)); // ** must have return
 		}
 	}
 }
 
 int main(){
 	string demo;
-	cout<<test(demo);
+	cin>>demo;
+	string re = test(demo); //** must def a return variable
+	cout<<re;
 
 	return 0;
 }
