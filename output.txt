@@ -1,6 +1,0 @@
-This is GeeksForGeeks
-
-Blue
-Red
-Orange
-Yellow
