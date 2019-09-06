@@ -4,4 +4,5 @@
 2. $ git fetch && git checkout <feature> //"feature" is the name of new branch
 3. switched to the new branch
 4. git push origin <feature>
+5. merge version of two branch: top left "new pull request"
 
