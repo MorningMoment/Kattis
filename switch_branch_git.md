@@ -5,4 +5,6 @@
 3. switched to the new branch
 4. git push origin <feature>
 5. merge version of two branch: top left "new pull request"
+  
+6. git remote -v
 
