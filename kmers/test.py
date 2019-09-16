@@ -1,6 +1,25 @@
 import sys
-f = open('input.txt')
-cont =  [i.strip('\n') for i in f.readlines()]
+
+import os
+import re
+f = open('./kmers/input.txt')
+cont = f.read()
+f.close()
+print(cont)
+
+lst = cont.split()
+lst
+
+# >>> a='Beautiful, is; better*than\nugly'
+# >>> import re
+# >>> re.split('; |, |\*|\n',a)
+# ['Beautiful', 'is', 'better', 'than', 'ugly']
+
+
+cont = re.split(' ',f.readlines())
+
+
+#cont = [i.strip('\n') for i in f.readlines()]
 f.close()
 
 #cont = [i.strip('\n') for i in sys.stdin.readlines()]
@@ -29,5 +48,4 @@ for i in range(len(oristr)):
 
 for key in keys:
     print(key,Dict[key])
-
 

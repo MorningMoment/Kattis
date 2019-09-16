@@ -1,10 +1,5 @@
-5 170 3 4
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaabcdeaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaa
-aab
-aba
-baa
-aaa
+1 7 2 3
+aaabaab
+ab
+ba
+aa
