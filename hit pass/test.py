@@ -9,47 +9,40 @@ cnt = sys.stdin.read().split()
 # f.close()
 
 for var in "NMSR":
-	globals()[var] = int(cnt.pop(0))
+    globals()[var] = int(cnt.pop(0))
 
-map = []
+mapp = []
 for i in range(S):
-	ship = []
-	ship.append(int(cnt.pop(0)))
-	ship.append(int(cnt.pop(0)))
-	map.append(ship)
+    ship = []
+    ship.append(int(cnt.pop(0)))
+    ship.append(int(cnt.pop(0)))
+    mapp.append(ship)
 
 # shots = []
 # for i in range(R):
-# 	shot = []
-# 	shot.append(int(cnt.pop(0)))
-# 	shot.append(int(cnt.pop(0)))
-# 	shots.append(shot)
+#   shot = []
+#   shot.append(int(cnt.pop(0)))
+#   shot.append(int(cnt.pop(0)))
+#   shots.append(shot)
 
 #print(map)
 
-def find_closest(map,x,y):
-	ko = False
-	mindist = 2001
-	xflag = x
-	yflag = y
-	for i in range(len(map)):
-		dis = abs(x-map[i][0]) + abs(y-map[i][1])
-		if dis<mindist:
-			mindist = dis
-			xflag = map[i][0]
-			yflag = map[i][1]
-			if dis==0:
-				ko = True
-				map.pop(i)
-				break
-	return max(0,1000-mindist*100)
+def find_closest(mapp,x,y):
+    mindist = 2001
+    for i in range(len(mapp)):
+        dis = abs(x-mapp[i][0]) + abs(y-mapp[i][1])
+        if dis<mindist:
+            mindist = dis
+            if dis==0:
+                mapp.pop(i)
+                break
+    return max(0,1000-mindist*100)
 distt = 0
 
 for i in range(R):
-	x = int(cnt.pop(0))
-	y = int(cnt.pop(0))
-	distt += find_closest(map,x,y)
+    x = int(cnt.pop(0))
+    y = int(cnt.pop(0))
+    distt += find_closest(mapp,x,y)
 
-sunk = S - len(map)
+sunk = S - len(mapp)
 print(str(sunk)+"/"+str(S),"ships sunk. Score:",str(distt),"points")
-
