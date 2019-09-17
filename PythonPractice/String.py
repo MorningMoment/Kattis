@@ -22,4 +22,24 @@ a = "hello"
 m = a.replace("h","a")
 m
 
+a = list(a)
+import random
+random.shuffle(a)
+print("".join(a))
+
+
+
+
+
+from itertools import cycle
+key = "abcdef"
+print(cycle(key))
+
+
+
+
+
+
+
+
 
