@@ -1,0 +1,37 @@
+./hit pass/demo
+./hit pass/test
+./apaxiaaans/test
+./Reverse Minesweeper/demo
+./Reverse Minesweeper/test
+./connected/new_connected
+./Square/test
+./AllHailApaxia/test
+./Apaxian/demo
+./Apaxian/apaxian
+./tricky gamer/test
+./CppSTL/List/List_Insert
+./CppSTL/List/List_remove_merge
+./CppSTL/List/List_unique
+./CppSTL/List/List_erase
+./CppSTL/Vector/Vector_Sort
+./8queens/test
+./greedy_hike_new/demo
+./greedy_hike_new/test
+./kmers/demo
+./kmers/test
+./kmers/demo2
+./unique_string
+./Filling/venv/bin/python3
+./Filling/venv/bin/python
+./Filling/venv/bin/python3.6
+./.git/hooks/commit-msg.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/update.sample
