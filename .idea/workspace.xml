@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ebe5169-1d28-4a51-a147-15310c69e43a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Filling/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Kattis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kattis.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Filling/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Filling/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hit pass/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/hit pass/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -177,7 +175,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="2495" height="1444" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.110436894" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
