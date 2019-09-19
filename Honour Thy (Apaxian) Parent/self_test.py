@@ -21,3 +21,14 @@ while i<len(diff):
         result*=diff[flag]
     else:
         i=flag+1
+
+class point:
+    def __init__(self,xv,vy):
+        self.x = xv
+        self.y = vy
+    def show(self):
+        print(self.x,self.y)
+    def addition(self):
+        self.x+=1
+        self.y+=1
+        self.show()
