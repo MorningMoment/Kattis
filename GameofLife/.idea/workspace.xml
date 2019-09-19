@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a45b344-b182-482b-bf55-91858c9d7302" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Connectedn/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Connectedn/.idea/Connectedn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Connectedn/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Connectedn/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Connectedn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CourseSchedule/.idea/CourseSchedule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CourseSchedule/flattebn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CppSTL/List/List_Insert.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CppSTL/List/List_erase.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CppSTL/List/List_remove_merge.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CppSTL/List/List_unique.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CppSTL/List/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CppSTL/List/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CppSTL/Vector/Vector_Sort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CppSTL/Vector/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CppSTL/Vector/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filling/.idea/Filling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filling/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filling/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filling/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filling/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filling/venv/bin/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filling/venv/bin/activate.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filling/venv/bin/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filling/venv/lib64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filling/venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/GameofLife.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SAMPLE_LC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoL/.idea/GoL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoL/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoL/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPractice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPractice/.idea/PythonPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPractice/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPractice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPractice/String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonPractice/regex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config_sublime.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/linghui/Staying_Connected.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/linghui/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/linghui_pycharm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/linghui_pycharm/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/linghui_pycharm/.idea/linghui_pycharm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/linghui_pycharm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/linghui_pycharm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/linghui_pycharm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/linghui_pycharm/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/linghui_pycharm/linghui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/new_connected.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/stay_connected_sy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/stay_connected_sy/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/stay_connected_sy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/stay_connected_sy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/stay_connected_sy/.idea/stay_connected_sy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/stay_connected_sy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/stay_connected_sy/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/stay_connected_sy/my.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/stay_connected_sy/sy_connected.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connected/successed.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/greedy_hike.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../excutable.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greedy_hike_new/connected_sy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greedy_hike_new/demo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greedy_hike_new/greedy_hike.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greedy_hike_new/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greedy_hike_new/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greedy_hike_new/my.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greedy_hike_new/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greedy_hike_new/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hit pass/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hit pass/.idea/hit pass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hit pass/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hit pass/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hit pass/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hit pass/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hit pass/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hit pass/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hit pass/trymybuildsys.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Kattis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Kattis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8queens/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllHailApaxia/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Apaxian/apaxian" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Apaxian/demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reverse Minesweeper/demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Reverse Minesweeper/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Square/test" beforeDir="false" afterPath="$PROJECT_DIR$/../hit pass/trymybuildsys" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apaxiaaans/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hit pass/demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hit pass/in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hit pass/in.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hit pass/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../hit pass/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hit pass/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmers/demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmers/demo2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmers/demo2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../kmers/demo2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmers/in.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../kmers/in.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmers/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../kmers/out.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kmers/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tricky gamer/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unique_string" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1QzXRtdCQnl870XZREkmfnfXkB2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a45b344-b182-482b-bf55-91858c9d7302" name="Default Changelist" comment="" />
+      <created>1568753992021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568753992021</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
