@@ -1,5 +1,7 @@
-1 7 2 3
+1 7 3 5
 aaabaab
-ab
-ba
-aa
+aaa
+aab
+aaa
+baa
+xyz

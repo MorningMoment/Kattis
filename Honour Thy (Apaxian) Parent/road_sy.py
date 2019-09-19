@@ -57,3 +57,11 @@ def TripNext(S1):
 
 TripNext(S)
 #print T
+
+a = [1,2,3]
+def func(a):
+        #global a
+        a[0] = 999
+func(a)
+
+demo1.append(999)
